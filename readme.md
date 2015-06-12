@@ -21,3 +21,5 @@ If that still feels like too much, summon me on the Twitter, where I am [@lisawi
 [Nontraditional Reporting Fills Gaps in Statehouse Coverage](http://journo.biz/2015/02/17/how-nontraditional-journalism-is-filling-the-gaps-in-declining-statehouse-reporting/), Luis Gomez, INN, 2015.
 
 [How To Improve Statehouse Reporting](http://www.hewlett.org/blog/posts/how-improve-statehouse-reporting), Kelly Born, Hewlett Foundation.
+
+https://stevebuttry.wordpress.com/2012/01/07/how-a-digital-first-reporter-should-approach-statehouse-coverage/
