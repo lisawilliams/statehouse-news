@@ -14,10 +14,10 @@ If that still feels like too much, summon me on the Twitter, where I am [@lisawi
 
 ## A Job Description for Statehouse News in 2015
 
-A statehouse news service in 2015 should cover important legislative and public po
-
+A statehouse news service in 2015 should cover important legislative and public policy issues, illuminate the state's use of taxpayer dollars, track and show the impact of lobbying dollars on the legislature, shine a spotlight on the personalities and debates of the state's capital, make use of public data to give citizens a clear and comprehensible view of complex issues, and above all, to hold the powerful, in and out of elective office, to account.  
 
 **Before Starting Up**
+
 --
 
 **Coverage areas**
