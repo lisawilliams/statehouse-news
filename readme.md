@@ -65,11 +65,15 @@ whether there is even philanthropic interest to fund such projects. Galloway, fo
 
 **Arkansas**
 
+--
+
 **California**
 
 [CaliforniaWatch]   (still open?)
 
 **Colorado**
+
+--
 
 **Connecticut**
 
@@ -78,6 +82,7 @@ whether there is even philanthropic interest to fund such projects. Galloway, fo
 
 **Delaware**
 
+--
 
 **Florida**
 
@@ -85,21 +90,42 @@ whether there is even philanthropic interest to fund such projects. Galloway, fo
 [Florida Center for Investigative Reporting](http://fcir.org)
 
 **Georgia**
-**Hawaii
-Idaho
-Illinois
-Indiana
-Iowa**
+
+--
+
+**Hawaii**
+
+--
+
+**Idaho**
+
+-- 
+
+**Illinois**
+
+--
+
+**Indiana**
+
+--
+
+**Iowa**
 
 [IowaWatch](http://iowawatch.org)
 
-**Kansas
-Kentucky**
+**Kansas**
 
-Kentucky Center for Investigative Reporting 
+[Kansas Watchdog](http://watchdog.org/category/kansas/_
 
-**Louisiana
-Maine**
+**Kentucky**
+
+[Kentucky Center for Investigative Reporting](http://kycir.org)
+
+**Louisiana**
+
+--
+
+**Maine**
 
 [Maine Center for Public Interest Reporting](http://pinetreewatchdog.org)
 
