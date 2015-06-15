@@ -2,6 +2,8 @@
 
 ## Intro
 
+The number of reporters covering state politics and state legislatures has declined dramatically.  How might we turn that around?  This document approaches that question in the form of what you might call an "organizational job description" for a newly formed statehouse news service.  What should be covered?  How should it be staffed?  What's the focus?  Is it an organization with their own website that tries to attract their own audience?  Is it a wire service whose content appears in other publications?  Either way, where does the money come from?
+
 ## Can I add to this?  
 
 Yes, absolutely.  Here are some instructions on how to add to this repository: [Here's a beginner's guide](https://nerds.inn.org/2015/03/17/contributing-to-the-inn-nerds-docs-repo-using-github-com/). Just substitute this repository for the one used as an example in the tutorial.  
@@ -10,11 +12,75 @@ If that feels like too much, you can just click [Issues](https://github.com/lisa
 
 If that still feels like too much, summon me on the Twitter, where I am [@lisawilliams](http://twitter.com/lisawilliams).
 
+## Creating a Statehouse News Service in 2015
+
+**Coverage areas**
+
+* Legislative coverage
+* Coverage of state departments
+* Election Coverage
+* "Impact coverage" -- stories on how legislation or policies affect citizens, especially those remote from the capital 
+* Curation of related news items
+
+What else?
+
+**Structure**
+
+*  Independent News Organization -- News org with its own digital presence that publishes content and works to develop its own audience
+*  Wire service -- Reports stories which are distributed through other news outlets
+* Mobile app (okay, okay, but we're trying to blue-sky things here, OK? Work with me here, people!)  Users download an app that allows them to track issues, sends alerts, integrates with social media platforms
+
+What else?  
+
+--
+
+Staffing
+
+--
+
+Funding  
+
+**Sources of startup funding** 
+
+*For nonprofits*
+* Foundations
+* Angel investors
+* Bootstrapping
+
+*For profits* 
+* Venture capital (for only a very few) 
+* Angel investors
+* Bootstrapping 
+* Incubator/seed funding programs
+
+**Ongoing sources of earned revenue**
+
+* Events
+* Underwriting
+* Syndication
+* Membership/subscription
+* Education 
+
+--
+
+Engagement  
+
+* Through public events
+* Through inviting public comment (for op-ed commentary)
+* On social media platforms
+* Through surveys
+
+What else?
+
 ## A Reading List
 
-*The sheer scale of what the Tribune has achieved in Texas may not be replicable to other settings.*
+Here are a collection of reports, articles and essays on the state of statehouse reporting today.  
 
-[Earning Their Keep](http://features.knightfoundation.org/nonprofitnews-2015/pdfs/KF-NonprofitNews2015-Tribune.pdf), Jake Batsell's report about the Texas Tribune, 2014.
+*It’s time for a dramatic new approach grounded in community service. In a new report underwritten by the Ford Foundation that will be released tomorrow at Montclair State’s Engage Local conference, I attempt to draw lessons from a world not usually thought relevant to journalism: the three-decades-old movement of national and community service programs such as AmeriCorps, City Year, and Teach for America. A new national service program focused on local reporting would more efficiently deploy philanthropic resources to the media enterprises that need it most, while instilling a new sense of idealism into community-based coverage. It is time to Report for America.*
+
+[Report for America: a community service-based model for saving local journalism](http://www.cjr.org/innovations/its_hard_to_know_which.php), Steven Waldman
+
+
 
 *Within America’s 50 state capitol buildings, 1,592 journalists inform the public about the actions and issues of state government, according to new data from the Pew Research Center. Of those statehouse reporters, nearly half (741) are assigned there full time. While that averages out to 15 full-time reporters per state, the actual number varies widely—from a high of 53 in Texas to just two in South Dakota. The remaining 851 statehouse reporters cover the beat less than full time.*
 
@@ -51,6 +117,10 @@ If that still feels like too much, summon me on the Twitter, where I am [@lisawi
 whether there is even philanthropic interest to fund such projects. Galloway, for example, said “it was totally discouraging.” She said she left the October meeting with a sense that there is zero philanthropic funding for statehouse reporting. But she put the onus on practitioners and those who attended the meeting. “I think they want us to tell them what we want and come up with a plan, and they didn’t get that.*
 
 [Statehouse Reporting, January 2015 Report](http://inn.org/wp-content/uploads/2015/02/INN-Statehouse-Reporting-January-2015-Public-Version.pdf) Luis Gomez, INN.  The report notes that CPI is also partnering with the AP. 
+
+*The sheer scale of what the Tribune has achieved in Texas may not be replicable to other settings.*
+
+[Earning Their Keep](http://features.knightfoundation.org/nonprofitnews-2015/pdfs/KF-NonprofitNews2015-Tribune.pdf), Jake Batsell's report about the Texas Tribune, 2014.
 
 ## Statehouse Reporting: a 50 State Inventory
 
