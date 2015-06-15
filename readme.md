@@ -16,9 +16,9 @@ If that still feels like too much, summon me on the Twitter, where I am [@lisawi
 
 A statehouse news service in 2015 should cover important legislative and public policy issues, illuminate the state's use of taxpayer dollars, track and show the impact of lobbying dollars on the legislature, shine a spotlight on the personalities and debates of the state's capital, make use of public data to give citizens a clear and comprehensible view of complex issues, and above all, to hold the powerful, in and out of elective office, to account.  
 
-**Before Starting Up**
+**What does a state house news operation need?**
 
---
+Before starting up, the team creating (or rebooting) a state house news organization will have to create the following areas of operation, and make decisions about structure, coverage, and a lot more:
 
 **Coverage areas**
 
@@ -87,7 +87,6 @@ Here are a collection of reports, articles and essays on the state of statehouse
 [Report for America: a community service-based model for saving local journalism](http://www.cjr.org/innovations/its_hard_to_know_which.php), Steven Waldman
 
 
-
 *Within America’s 50 state capitol buildings, 1,592 journalists inform the public about the actions and issues of state government, according to new data from the Pew Research Center. Of those statehouse reporters, nearly half (741) are assigned there full time. While that averages out to 15 full-time reporters per state, the actual number varies widely—from a high of 53 in Texas to just two in South Dakota. The remaining 851 statehouse reporters cover the beat less than full time.*
 
 *As newspapers have withdrawn reporters from statehouses, others have attempted to fill the gap. For-profit and nonprofit digital news organizations, ideological outlets and high-priced publications aimed at insiders have popped up all over the country, often staffed by veteran reporters with experience covering state government. These nontraditional outlets employ 126 full-time statehouse reporters (17% of all full-time reporters). But that does not make up for the 164 newspaper statehouse jobs lost since 2003.*
@@ -129,6 +128,8 @@ whether there is even philanthropic interest to fund such projects. Galloway, fo
 [Earning Their Keep](http://features.knightfoundation.org/nonprofitnews-2015/pdfs/KF-NonprofitNews2015-Tribune.pdf), Jake Batsell's report about the Texas Tribune, 2014.
 
 ## Statehouse Reporting: a 50 State Inventory
+
+**6/15/15** We are actively adding to this section.  Have a suggestion?  [Let us know about it!](https://github.com/lisawilliams/statehouse-news/issues/new)
 
 **Note** *While local and regional newspapers and broadcast news operations do statehouse reporting, the following list doesn't focus on them (though we may add them, and if you would like to add an organization please do so).  Right now we are trying to surface networks/wire services, new state politics sites, etc.  We are also focusing on sites that have general coverage of state house and state level politics, so for now we are not adding sites that focus on policy for only one topic, such as education or health, on a statewide basis.*
 
