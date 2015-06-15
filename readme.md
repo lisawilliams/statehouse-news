@@ -14,6 +14,9 @@ If that still feels like too much, summon me on the Twitter, where I am [@lisawi
 
 ## Creating a Statehouse News Service in 2015
 
+**Before Starting Up**
+--
+
 **Coverage areas**
 
 * Legislative coverage
@@ -63,7 +66,7 @@ What else?
 * Membership/subscription
 * Education 
 
-Engagement  
+**Engagement**
 
 * Through public events
 * Through inviting public comment (for op-ed commentary)
