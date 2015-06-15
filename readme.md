@@ -32,13 +32,15 @@ What else?
 
 What else?  
 
---
+**Staffing**
 
-Staffing
+* Editors/reporters
+* Operations staff
+* Sales staff
+* Social media/engagement 
 
---
 
-Funding  
+**Funding**
 
 **Sources of startup funding** 
 
@@ -60,8 +62,6 @@ Funding
 * Syndication
 * Membership/subscription
 * Education 
-
---
 
 Engagement  
 
