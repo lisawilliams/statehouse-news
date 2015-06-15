@@ -49,137 +49,141 @@ whether there is even philanthropic interest to fund such projects. Galloway, fo
 * StateImpact, Pew 
 * [National Institute on Money in State Politics](http://www.followthemoney.org/)
 
-Alabama
+**Alabama**
 
 [Alabama Today statehouse coverage](http://altoday.com/archives/tag/statehouse)
 [Alabama Independent Journalism Initiative/Birmingham Watch](http://birminghamwatch.org/)
 
-Alaska
+**Alaska**
 
 [Alaska Watchdog](http://watchdog.org/category/alaska/)
 
-Arizona
+**Arizona**
 
 [Arizona Center for Investigative Reporting](http://azcir.org/)
 [Tucson Sentinel] (statehouse coverage?)
 
-Arkansas
-California
+**Arkansas**
+
+**California**
 
 [CaliforniaWatch]   (still open?)
 
-Colorado
-Connecticut
+**Colorado**
 
-CT Mirror
-CT Newzjunky
+**Connecticut**
 
-Delaware
-Florida
+[CT Mirror](http://ctmirror.org)
+
+
+**Delaware**
+
+
+**Florida**
 
 [Florida Bulldog](http://www.floridabulldog.org/)
 [Florida Center for Investigative Reporting](http://fcir.org)
 
-Georgia
-Hawaii
+**Georgia**
+**Hawaii
 Idaho
 Illinois
 Indiana
-Iowa
+Iowa**
 
 [IowaWatch](http://iowawatch.org)
 
-Kansas
-Kentucky
+**Kansas
+Kentucky**
 
 Kentucky Center for Investigative Reporting 
 
-Louisiana
-Maine
+**Louisiana
+Maine**
 
-Maine Center for Public Interest Reporting
+[Maine Center for Public Interest Reporting](http://pinetreewatchdog.org)
 
-Maryland
+**Maryland**
 
-Maryland Reporter
+[Maryland Reporter](http://marylandreporter.org)
 
-Massachusetts
+**Massachusetts**
 
 State House News Service
 Politico Massachusetts 
 New England Center for Investigative Reporting
 
-Michigan
+**Michigan
 Minnesota
-Mississippi
-Missouri
-Montana
+Mississippi**
+**Missouri
+Montana**
 
 [Montana Center for Investigative Reporting](http://mtcir.org/)
 
-Nebraska
+**Nebraska
 Nevada
-New Hampshire
+New Hampshire**
 
 NH In Depth
 [New England Center for Investigative Reporting](http://necir.org)
 
-New Jersey
+**New Jersey**
 
 [NJ Spotlight](http://njspotlight.org)
 
-New Mexico
+**New Mexico**
 
 [NM In Depth](http://nmindepth.org)
 
-New York
+**New York**
 
 [Capital New York/Politico New York](http://www.capitalnewyork.com/)
 
-North Carolina
+**North Carolina
 North Dakota
-Ohio
+Ohio**
 
 [Eye on Ohio](http://eyeonohio.org)
 
-Oklahoma
+**Oklahoma**
 
 [OklahomaWatch](http://oklahomawatch.org)
 
 
-Oregon
+**Oregon
 Pennsylvania
 Rhode Island
-South Carolina
+South Carolina*
 
 [Carolina Public Press](http://www.carolinapublicpress.org/)
 
-South Dakota
+**South Dakota
 Tennessee
-Texas
+Texas**
 
-Texas Tribune
+[Texas Tribune](http://texastribune.org)
 
-Utah
-Vermont
+**Utah
+Vermont**
 
 [VT Digger](http://vtdigger.com)
 
-Virginia
+**Virginia
 Washington
 West Virginia
-Wisconsin
+Wisconsin**
 
 [Wisconsin Watch](http://wisconsinwatch.org)
 
-Wyoming
+**Wyoming**
 
 [WyoFile](http://wyofile.org)
 
-US Territories
+**US Territories**
 
-Guam
+**Guam**
 
-Puerto Rico
+**Puerto Rico**
 
 [Centro de Periodismo Investigativo de Puerto Rico](http://periodismoinvestigativo.com/)
