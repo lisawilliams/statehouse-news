@@ -115,7 +115,7 @@ whether there is even philanthropic interest to fund such projects. Galloway, fo
 
 **Kansas**
 
-[Kansas Watchdog](http://watchdog.org/category/kansas/_
+[Kansas Watchdog](http://watchdog.org/category/kansas/)
 
 **Kentucky**
 
@@ -139,17 +139,33 @@ State House News Service
 Politico Massachusetts 
 New England Center for Investigative Reporting
 
-**Michigan
-Minnesota
-Mississippi**
-**Missouri
-Montana**
+**Michigan**
+
+--
+**Minnesota**
+
+--
+
+**Mississippi**
+
+--
+**Missouri**
+
+--
+
+**Montana**
 
 [Montana Center for Investigative Reporting](http://mtcir.org/)
 
-**Nebraska
-Nevada
-New Hampshire**
+**Nebraska**
+
+--
+
+**Nevada**
+
+--
+
+**New Hampshire**
 
 NH In Depth
 [New England Center for Investigative Reporting](http://necir.org)
@@ -166,9 +182,15 @@ NH In Depth
 
 [Capital New York/Politico New York](http://www.capitalnewyork.com/)
 
-**North Carolina
-North Dakota
-Ohio**
+**North Carolina**
+
+--
+
+**North Dakota**
+
+--
+
+**Ohio**
 
 [Eye on Ohio](http://eyeonohio.org)
 
@@ -177,28 +199,55 @@ Ohio**
 [OklahomaWatch](http://oklahomawatch.org)
 
 
-**Oregon
-Pennsylvania
-Rhode Island
-South Carolina*
+**Oregon**
+
+--
+
+**Pennsylvania**
+
+-- 
+
+**Rhode Island**
+
+-- 
+
+**South Carolina**
 
 [Carolina Public Press](http://www.carolinapublicpress.org/)
 
-**South Dakota
-Tennessee
-Texas**
+**South Dakota**
+
+--
+
+**Tennessee**
+
+--
+
+**Texas**
 
 [Texas Tribune](http://texastribune.org)
 
-**Utah
-Vermont**
+**Utah**
+
+--
+
+**Vermont**
 
 [VT Digger](http://vtdigger.com)
 
-**Virginia
-Washington
-West Virginia
-Wisconsin**
+**Virginia**
+
+--
+
+**Washington**
+
+--
+
+**West Virginia**
+
+--
+
+**Wisconsin**
 
 [Wisconsin Watch](http://wisconsinwatch.org)
 
