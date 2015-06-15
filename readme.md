@@ -1,4 +1,4 @@
-# Creating A Statehouse News Service in 2015
+# A Job Description for Statehouse News in 2015
 
 ## Intro
 
@@ -6,13 +6,16 @@ The number of reporters covering state politics and state legislatures has decli
 
 ## Can I add to this?  
 
-Yes, absolutely.  Here are some instructions on how to add to this repository: [Here's a beginner's guide](https://nerds.inn.org/2015/03/17/contributing-to-the-inn-nerds-docs-repo-using-github-com/). Just substitute this repository for the one used as an example in the tutorial.  
+Yes, absolutely.  Here are some instructions on how to add to this repository: [Here's a beginner's guide](http://nerds.inn.org/2015/03/17/contributing-to-the-inn-nerds-docs-repo-using-github-com/). Just substitute this repository for the one used as an example in the tutorial.  
 
 If that feels like too much, you can just click [Issues](https://github.com/lisawilliams/community/issues/new) and let me know what's on your mind.  You'll need a (free) Github account to do so.  
 
 If that still feels like too much, summon me on the Twitter, where I am [@lisawilliams](http://twitter.com/lisawilliams).
 
-## Creating a Statehouse News Service in 2015
+## A Job Description for Statehouse News in 2015
+
+A statehouse news service in 2015 should cover important legislative and public po
+
 
 **Before Starting Up**
 --
