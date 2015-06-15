@@ -42,11 +42,12 @@ whether there is even philanthropic interest to fund such projects. Galloway, fo
 
 **Note** *While local and regional newspapers and broadcast news operations do statehouse reporting, the following list doesn't focus on them (though we may add them, and if you would like to add an organization please do so).  Right now we are trying to surface networks/wire services, new state politics sites, etc.  We are also focusing on sites that have general coverage of state house and state level politics, so for now we are not adding sites that focus on policy for only one topic, such as education or health, on a statewide basis.*
 
-National
-Associated Press
-OpenStates, Sunlight Foundation
-StateImpact, Pew 
-[National Institute on Money in State Politics](http://www.followthemoney.org/)
+**National**
+
+* Associated Press
+* OpenStates, Sunlight Foundation
+* StateImpact, Pew 
+* [National Institute on Money in State Politics](http://www.followthemoney.org/)
 
 Alabama
 
