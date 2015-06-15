@@ -31,6 +31,18 @@ If that still feels like too much, summon me on the Twitter, where I am [@lisawi
 
 [How To Improve Statehouse Reporting](http://www.hewlett.org/blog/posts/how-improve-statehouse-reporting), Kelly Born, Hewlett Foundation.
 
+*I see nine themes for the digital emphasis of a statehouse reporter:*
+
+*1. Live reporting of events.*
+*2. Community engagement around the issues and events of the Capitol.*
+*3. Reporting breaking news and enterprised scoops as the stories unfold.*
+*4. Curation of content from other sources.*
+*5. Enterprise and daily reporting based on analysis of data compiled by state agencies.*
+*6. Video reporting of interviews and news events.*
+*7. Mapping.*
+*8. Digitally focused enterprise reporting.*
+*9. Beatblogging.*
+
 [How A Digital First Reporter Should Approach Statehouse Coverage](https://stevebuttry.wordpress.com/2012/01/07/how-a-digital-first-reporter-should-approach-statehouse-coverage/)
 
 *Center for Public Integrity [is also] taking to the task of keeping statehouse reporting alive. CPI announced in September an initiative to hire 50 freelancers nationwide to cover corruption in state government. And in late January, the CPI produced a major report on state­level elections and money in politics.*
