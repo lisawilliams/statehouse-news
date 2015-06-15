@@ -38,7 +38,7 @@ whether there is even philanthropic interest to fund such projects. Galloway, fo
 
 [Statehouse Reporting, January 2015 Report](http://inn.org/wp-content/uploads/2015/02/INN-Statehouse-Reporting-January-2015-Public-Version.pdf) Luis Gomez, INN.  The report notes that CPI is also partnering with the AP. 
 
-Statehouse Reporting: a 50 States Inventory
+## Statehouse Reporting: a 50 State Inventory
 
 **Note** *While local and regional newspapers and broadcast news operations do statehouse reporting, the following list doesn't focus on them (though we may add them, and if you would like to add an organization please do so).  Right now we are trying to surface networks/wire services, new state politics sites, etc.  We are also focusing on sites that have general coverage of state house and state level politics, so for now we are not adding sites that focus on policy for only one topic, such as education or health, on a statewide basis.*
 
