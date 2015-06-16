@@ -68,6 +68,9 @@ What else?
 * Syndication
 * Membership/subscription
 * Education 
+* Data 
+
+On data, from David Fritze of [OklahomaWatch](http://oklahomawatch.org): *I would suggest adding as an optional service (premium?) selected cuts of legislative data of interest to voters, media and others. There are many services that do this already, but their customers are often lobbyists, corporations, individual newspaper reporters, and other elites. Examples would be the ability to track your legislators' votes on all bills, campaign finance data (perhaps in cooperation with opensecrets.org, Sunlight or another grouop) or, say, 50 key bills during a session; plus an overall view of the demographic makeup of the legislature, as we've done in the past and have just updated for this session.*  See one of Oklahomawatch's data offerings here :[OklahomaWatch/Legislature](http://oklahomawatchdata.org/static/legislature/)
 
 **Engagement**
 
