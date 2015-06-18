@@ -10,6 +10,10 @@ This is not a real-world gathering but instead a gathering of essays, inspired b
 
 If you would like to contribute, I am looking for essays between 700 and 2500 words; email lisa -- at -- inn  dot org.  
 
+## Background
+
+This page is a background document, where I am compiling a reading list, examples of novel approaches to statehouse reporting across the US, and responses by those in the field. 
+
 ## Can I add to this?  
 
 Yes, absolutely.  Here are some instructions on how to add to this repository: [Here's a beginner's guide](http://nerds.inn.org/2015/03/17/contributing-to-the-inn-nerds-docs-repo-using-github-com/). Just substitute this repository for the one used as an example in the tutorial.  
