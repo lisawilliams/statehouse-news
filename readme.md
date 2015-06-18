@@ -4,6 +4,12 @@
 
 The number of reporters covering state politics and state legislatures has declined dramatically.  How might we turn that around?  This document approaches that question in the form of what you might call an "organizational job description" for a newly formed statehouse news service.  What should be covered?  How should it be staffed?  What's the focus?  Is it an organization with their own website that tries to attract their own audience?  Is it a wire service whose content appears in other publications?  Either way, where does the money come from?
 
+## An Invitation: Contribute to A Statehouse Reporting Seminar
+
+This is not a real-world gathering but instead a gathering of essays, inspired by the [Crooked Timber Open Data Seminar](http://crookedtimber.org/2012/07/17/open-data-seminar-2/), where a number of authors took on the theme of what the age of open data means for public and private life.  
+
+If you would like to contribute, I am looking for essays between 700 and 2500 words; email lisa -- at -- inn  dot org.  
+
 ## Can I add to this?  
 
 Yes, absolutely.  Here are some instructions on how to add to this repository: [Here's a beginner's guide](http://nerds.inn.org/2015/03/17/contributing-to-the-inn-nerds-docs-repo-using-github-com/). Just substitute this repository for the one used as an example in the tutorial.  
