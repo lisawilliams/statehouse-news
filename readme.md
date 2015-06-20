@@ -2,7 +2,7 @@
 
 ## Intro
 
-The number of reporters covering state politics and state legislatures has declined dramatically.  How might we turn that around?  This document approaches that question in the form of what you might call an "organizational job description" for a newly formed statehouse news service.  What should be covered?  How should it be staffed?  What's the focus?  Is it an organization with their own website that tries to attract their own audience?  Is it a wire service whose content appears in other publications?  Either way, where does the money come from? .. **
+The number of reporters covering state politics and state legislatures has declined dramatically.  How might we turn that around?  This document approaches that question in the form of what you might call an "organizational job description" for a newly formed statehouse news service.  What should be covered?  How should it be staffed?  What's the focus?  Is it an organization with their own website that tries to attract their own audience?  Is it a wire service whose content appears in other publications?  Either way, where does the money come from? .. ** ..
 
 ## An Invitation: Contribute to A Statehouse Reporting Seminar
 
